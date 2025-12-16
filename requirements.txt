@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python-headless
+numpy
+pycryptodome
+exifread
+python-magic
+pymupdf
+pdfminer.six
