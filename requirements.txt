@@ -5,7 +5,6 @@ pillow
 opencv-python-headless
 numpy
 pycryptodome
-exifread
-python-magic-bin
+exifread    
 pymupdf
 pdfminer.six
